@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "ism": "aaaaaaaaaaaa",
+    "image": "9c41840ca89debb626434699e285fb33.jpg",
+    "password": "$2b$12$E4VxtIIgYkjpEtqUikqfy.68uGpg2LKgWxV04KheoiMRRoxOrdsve",
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "ism": "mominxoja",
+    "image": "9c41840ca89debb626434699e285fb33.jpg",
+    "password": "$2b$12$.xRRURUnwD595EaMwc7k0eq02BzPikR6J9akTFZgnWxq.gBoepURa",
+    "isDeleted": false
+  },
+  {
+    "id": 3,
+    "ism": "mirjalol",
+    "image": "9c41840ca89debb626434699e285fb33.jpg",
+    "password": "$2b$12$yjv97yknwYnCxLudbxqIkeljFvWOpnwsPUSWDXvxAmyBvaROTn9Vm",
+    "isDeleted": false
+  },
+  {
+    "id": 4,
+    "ism": "eshmat",
+    "image": "9c41840ca89debb626434699e285fb33.jpg",
+    "password": "$2b$12$TNpA05t3C1kNMg198whHd.5OFA9Q2ES0Fs7L.9JwUxnsuEoTnhPuC",
+    "isDeleted": false
+  }
+]
